@@ -1,0 +1,3 @@
+C:\Users\aleys\Desktop\Visual Studio Projects\Deck Building Game\Deck Building Game\x64\Debug\Deck Building Game.vcxproj.CopyComplete
+C:\Users\aleys\Desktop\Visual Studio Projects\CardGame\Deck Building Game\Deck Building Game\x64\Debug\Deck Building Game.vcxproj.CopyComplete
+C:\Users\aleys\Desktop\Visual Studio Projects\Card-Game\Deck Building Game\Deck Building Game\x64\Debug\Deck Building Game.vcxproj.CopyComplete

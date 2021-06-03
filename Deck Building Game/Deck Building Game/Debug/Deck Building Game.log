@@ -1,0 +1,7 @@
+﻿  Level.cpp
+c:\users\aleysha\desktop\visual studio projects\deck building game\deck building game\level.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+c:\users\aleysha\desktop\visual studio projects\deck building game\deck building game\main.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\aleysha\desktop\visual studio projects\deck building game\deck building game\main.cpp(20): warning C4101: 'deltaTime': unreferenced local variable
+  Generating Code...
+  Deck Building Game.vcxproj -> C:\Users\Aleysha\Desktop\Visual Studio Projects\Deck Building Game\Debug\Deck Building Game.exe
